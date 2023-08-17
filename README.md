@@ -1,6 +1,5 @@
 # Decoding Heart Health: A Machine Learning Approach
 
-![Heart Health](heart_health.jpg)
 
 Welcome to the **Decoding Heart Health** project repository! This project focuses on utilizing machine learning techniques to predict heart disease based on patient attributes. By exploring a comprehensive dataset and applying advanced algorithms, we aim to contribute to the field of data-driven healthcare.
 
